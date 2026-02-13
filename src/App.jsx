@@ -22,7 +22,7 @@ export default function Page() {
       "I knew this onli",
       "U really gona say No?",
       "Why are you Noob?",
-      "Theres no "No"?",
+      "Theres no No?",
       "Kunj Mans?",
       "My mans will boom",
       "Wha the sigma",
