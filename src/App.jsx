@@ -14,24 +14,24 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Sherikum?",
-      "Wudahel noob?",
+      "For sure?",
+      "Wudahel pls?",
       "Think again",
-      "Tap No again if youre flat",
-      "So youre flat",
-      "I knew this onli",
+      "Tap No again if you don love me",
+      "So you don love me?",
+      "I knew it",
       "U really gona say No?",
-      "Why are you Noob?",
+      "Please jaanu",
       "Theres no No?",
-      "Kunj Mans?",
-      "My mans will boom",
-      "Wha the sigma",
-      "kunj mans 10x",
+      "Once more??",
+      "My heart will boom",
+      "What the sigma",
+      "broken heart :(",
       "Is that your final answer?",
-      "You're breaking my kunj mans",
-      "Esopa wont forgive you",
-      "Why Pia? ;(",
-      "try again noob? :( You're breaking my heart",
+      "You're breaking my smol heart",
+      "jesus wont forgive you",
+      "Why SREEZIA ;(",
+      "try again please :( You're breaking my heart",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -89,7 +89,7 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://www.instagram.com/ilovesugarrrrrrrr?igsh=ZnRiZGx0eW9xbHc3"
+      href="https://www.instagram.com/fwrajjj?igsh=NmsxNW5mMnVwaDk4"
       target="__blank"
     >
       Made with{" "}
